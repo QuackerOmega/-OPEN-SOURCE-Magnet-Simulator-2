@@ -309,3 +309,12 @@ creds:Button("This Open Sourced Script Was Made By QuackerOmega", function()
     setclipboard("https://github.com/QuackerOmega")
     print("https://github.com/QuackerOmega")
 end)
+
+creds:Button("Venyx Mod By .az#8040", function()
+    setclipboard("https://github.com/QuackerOmega")
+    print("https://github.com/29436")
+end)
+
+creds:Button("Titan Script Originally By failedmite57926", function()
+    print()
+end)
